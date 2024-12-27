@@ -12,7 +12,7 @@
 
 ### 🚀 About Me
 
-I’m a passionate **Full-Stack Developer** with over **7 years of experience** crafting exceptional user experiences and building scalable applications. I specialize in **ReactJS**, **Node.js**, and **GraphQL**, with a proven track record of delivering performant and user-friendly solutions.
+I’m a passionate **Full-Stack Developer** with over **7 years of experience** crafting exceptional user experiences and building scalable applications. I specialize in **ReactJS**, **Node.js**, and **GraphQL**, with a proven working on of delivering performant and user-friendly solutions.
 
 #### Professional Experience
 
@@ -55,7 +55,6 @@ Here’s a glance at my tech stack:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 #### **DevOps & Cloud**  
@@ -86,4 +85,4 @@ A feature-rich admin dashboard built with **ReactJS**, **Material-UI**, and **Re
 ---
 
  
-Thank you for visiting my profile! 🌟 Let’s build amazing things together! 🚀
+Thank you for visiting my profile! my goal is to support business to achieve their.
