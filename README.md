@@ -73,15 +73,15 @@ Here’s a glance at my tech stack:
 
 #### **1. Fullstack GraphQL React Starter Kit**
 A modern boilerplate for building scalable web applications using **React**, **Node.js**, and **GraphQL**.
-[View Repository](https://github.com/your-username/fullstack-graphql-react-starter-kit)
+ 
 
 #### **2. Performance Optimization Toolkit**
 An open-source toolkit to monitor and optimize web application performance using **Redux** and **Chrome DevTools**.
-[View Repository](https://github.com/your-username/performance-optimization-toolkit)
+ 
 
 #### **3. Material-UI Dashboard**
 A feature-rich admin dashboard built with **ReactJS**, **Material-UI**, and **Redux Toolkit**.
-[View Repository](https://github.com/your-username/material-ui-dashboard)
+ 
 
 ---
 
