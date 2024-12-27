@@ -4,15 +4,15 @@
 
 ### 🌟 Certifications
 
-- **Certified ReactJS Developer**
+- **Certified IBM ReactJS Developer**
 - **Certified IBM Full-Stack JavaScript Developer**
-- **Microservices Expert**
+- **Microservices specialization**
 
 ---
 
 ### 🚀 About Me
 
-I’m a passionate **Full-Stack Developer** with over **7 years of experience** crafting exceptional user experiences and building scalable applications. I specialize in **ReactJS**, **Node.js**, and **GraphQL**, with a proven working on of delivering performant and user-friendly solutions.
+I’m **Full-Stack Developer** with over **several years of experience** crafting exceptional user experiences and building scalable applications. I specialize in **ReactJS**, **Node.js**, and **GraphQL**, with a demonstrated history of creating high-performance, user-centric solutions.
 
 #### Professional Experience
 
@@ -34,8 +34,6 @@ With expertise in:
 - Backend technologies including **Node.js**, **Express.js**, and **GraphQL**.
 - Modern DevOps practices with **Git**, **CI/CD pipelines**, and cloud platforms like **AWS** and **GCP**.
 - Advanced testing tools like **Jest**, **Enzyme**, and **Cypress**.
-
-I'm always eager to tackle challenging projects, contribute to open-source, and collaborate with talented teams to push the boundaries of modern software development.
 
 ---
 
@@ -85,4 +83,4 @@ A feature-rich admin dashboard built with **ReactJS**, **Material-UI**, and **Re
 ---
 
  
-Thank you for visiting my profile! my goal is to support business to achieve their.
+Thank you for visiting my profile! My goal is to support businesses in achieving their objectives by delivering innovative, scalable, and efficient software solutions.
