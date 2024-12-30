@@ -12,7 +12,7 @@
 
 ### 🚀 About Me
 
-I’m **Full-Stack Developer** with over **several years of experience** crafting exceptional user experiences and building scalable applications. I specialize in **ReactJS**, **Node.js**, and **GraphQL**, with a demonstrated history of creating high-performance, user-centric solutions.
+I’m **Software Developer** with over **7 years of experience** crafting exceptional user experiences and building scalable applications. I specialize in **ReactJS**, **Node.js**, and **GraphQL**, with a demonstrated history of creating high-performance, user-centric solutions.
 
 #### Professional Experience
 
