@@ -12,7 +12,7 @@
 
 ### 🚀 About Me
 
-I’m **Software Developer** with over **7 years of experience** crafting exceptional user experiences and building scalable applications. I specialize in **ReactJS**, **Node.js**, and **GraphQL**, with a demonstrated history of creating high-performance, user-centric solutions.
+**Software Developer** with over **7 years of experience** crafting exceptional user experiences and building scalable applications. I specialize on **ReactJS**, **Node.js**, and **GraphQL**, creating high-performance, user-centric solutions.
 
 #### Professional Experience
 
@@ -29,10 +29,10 @@ I’m **Software Developer** with over **7 years of experience** crafting except
   - Enhanced performance by reducing page load times by 2 seconds.
   - Collaborated on **REST** and **GraphQL** API integrations.
 
-With expertise in:
-- Frontend frameworks like **ReactJS**, **Angular** (2+ to 8), and **Redux** for state management.
-- Backend technologies including **Node.js**, **Express.js**, and **GraphQL**.
-- Modern DevOps practices with **Git**, **CI/CD pipelines**, and cloud platforms like **AWS** and **GCP**.
+With specializations in:
+- Frontend frameworks like **Angular** (2+ to 8), and **Redux** for state management.
+- Backend including **Node.js**, **Express.js**, and **GraphQL**.
+- Modern DevOps practices with **Git**, **CI/CD pipelines**, and cloud platforms like **AWS**
 - Advanced testing tools like **Jest**, **Enzyme**, and **Cypress**.
 
 ---
