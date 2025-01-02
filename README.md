@@ -1,7 +1,3 @@
-# Hi there! 👋 Welcome to my GitHub Profile!
-
----
-
 ### 🌟 Certifications
 
 - **Certified IBM ReactJS Developer**
