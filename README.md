@@ -1,6 +1,6 @@
 ### About Me
 
-**Software Developer** crafting exceptional user experiences and building scalable applications. Specializing in high-performance and user-centric solutions.
+Software Developer crafting exceptional user experiences and building scalable applications. Specializing in high-performance and user-centric solutions.
 ### Certifications
 
 - **Certified IBM ReactJS Developer**
