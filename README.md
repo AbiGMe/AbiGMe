@@ -1,15 +1,13 @@
-### 🌟 Certifications
+### About Me
+
+**Software Developer** crafting exceptional user experiences and building scalable applications. Specializing in high-performance and user-centric solutions.
+### Certifications
 
 - **Certified IBM ReactJS Developer**
 - **Certified IBM Full-Stack JavaScript Developer**
 - **Microservices specialization**
 
 ---
-
-### 🚀 About Me
-
-**Software Developer** crafting exceptional user experiences and building scalable applications. Specializing in high-performance and user-centric solutions.
-
 #### Professional Experience
 
 - **Front-End Software Developer at Vanguard (March 2019 - July 2024)**
