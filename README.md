@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-**Software Developer** with over **7 years of experience** crafting exceptional user experiences and building scalable applications. I specialize on **ReactJS**, **Node.js**, and **GraphQL**, creating high-performance, user-centric solutions.
+**Software Developer** crafting exceptional user experiences and building scalable applications. I specialize on **ReactJS**, **Node.js**, and **GraphQL**, creating high-performance, user-centric solutions.
 
 #### Professional Experience
 
