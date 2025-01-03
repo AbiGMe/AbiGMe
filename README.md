@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-**Software Developer** crafting exceptional user experiences and building scalable applications. I specialize on **ReactJS**, **Node.js**, and **GraphQL**, creating high-performance, user-centric solutions.
+**Software Developer** crafting exceptional user experiences and building scalable applications. Specializing in high-performance and user-centric solutions.
 
 #### Professional Experience
 
