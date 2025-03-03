@@ -1,5 +1,11 @@
-A **certified ReactJS and Full-Stack JavaScript Developer** with **5+ years of experience**. I specialize in **React**, **Node.js**, and **GraphQL** to build fast, scalable apps.  
-  
+A **Full Stack Software Developer** with **5+ years of experience**.
+worked at  --> **Vanguard** 
+               **Bristol Myers Squibb**.   
+               
+## **Certifications**  
+- IBM ReactJS Developer  
+- IBM Full-Stack JavaScript Developer  
+- Microservices Specialization  
 
 ---
 
