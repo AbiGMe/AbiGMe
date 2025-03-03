@@ -1,9 +1,4 @@
-### **Software Developer | Crafting Scalable, User-Centric Solutions**
-
----
-
-## **About Me**  
-A **certified ReactJS and Full-Stack JavaScript Developer** with **5+ years of experience**. I’ve delivered results like **4,000+ new users** at **Vanguard** and **2-second page load improvements** at **Bristol Myers Squibb**. I specialize in **React**, **Node.js**, and **GraphQL** to build fast, scalable apps.  
+A **certified ReactJS and Full-Stack JavaScript Developer** with **5+ years of experience**. I specialize in **React**, **Node.js**, and **GraphQL** to build fast, scalable apps.  
   
 
 ---
