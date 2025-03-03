@@ -3,7 +3,8 @@
 ---
 
 ## **About Me**  
-I’m a passionate Software Developer with **5+ years of experience** specializing in **React**, **Node.js**, and **GraphQL**. Certified as an **IBM ReactJS Developer**, **IBM Full-Stack JavaScript Developer**, and **Microservices Specialist**, I’ve built high-performance applications for companies like **Vanguard** and **Bristol Myers Squibb**. At Vanguard, I boosted user growth by **4,000+** through feature development and optimized performance with **Redux** and **GraphQL**. At Bristol Myers Squibb, I reduced page load times by **2 seconds** for a portal serving **50,000+ monthly users** using **Next.js** and **React**.  
+A **certified ReactJS and Full-Stack JavaScript Developer** with **5+ years of experience**. I’ve delivered results like **4,000+ new users** at **Vanguard** and **2-second page load improvements** at **Bristol Myers Squibb**. I specialize in **React**, **Node.js**, and **GraphQL** to build fast, scalable apps.  
+  
 
 ---
 
