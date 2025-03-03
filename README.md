@@ -1,7 +1,5 @@
-A **Full Stack Software Developer** with **5+ years of experience**, I’ve worked at:  
-- **Vanguard**  
-- **Bristol Myers Squibb**  
-               
+A **Full Stack Software Developer** with **5+ years of experience** 
+
 ## **Certifications**  
 - IBM ReactJS Developer  
 - IBM Full-Stack JavaScript Developer  
