@@ -1,13 +1,4 @@
-A **Full Stack Software Developer** with **5+ years of experience** 
-
-## **Certifications**  
-- IBM ReactJS Developer  
-- IBM Full-Stack JavaScript Developer  
-- Microservices Specialization  
-
----
-
-## **🛠️ Technologies & Tools**  
+A **Full Stack Software Developer** with **7+ years of experience** 
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
